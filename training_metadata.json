@@ -1,0 +1,11 @@
+{
+    "dataset": "dataset/hockey",
+    "epochs": 25,
+    "batch_size": 8,
+    "learning_rate": 0.001,
+    "num_frames": 16,
+    "img_size": 112,
+    "best_val_f1": 0.9230769230769231,
+    "best_val_loss": 0.32897450337186457,
+    "final_val_acc": 0.925
+}

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Large Datasets and Temp Video Files
+dataset/
+_raw_temp/
+*.avi
+test_fight_result.mp4
+test_nonfight_result.mp4
+annotated_*.mp4
+*.jpg
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
